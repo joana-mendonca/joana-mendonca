@@ -20,7 +20,7 @@ With a diverse background in UX/UI design, frontend and backend engineering, I h
 
 #### 🌱 On the Side:
 
-- Side Quests: I have a passion for traveling 🚃 and exploring new sights 🏞️. Currently, I'm diving deeper into photography 📷 to capture and preserve the beauty of the incredible places I visited.
+- Side Quests: I have a passion for travelling 🚃 and sightseeing 🏞️. Currently, I'm diving deeper into photography 📷 to capture and preserve the beauty of the incredible places I visited.
 - Nature and Sports: I’m all about outdoor sports when the weather’s nice. When it’s rainy, catch me lifting weights or doing Pilates—no in-between! And if you spot me running… well, run alongside me because something’s definitely chasing us!
 - Fantasy Enthusiast: If it involves mythical creatures 🐉 or epic fantasy, I’m all in. Fantasy worlds are a big source of inspiration for me, whether through books, movies, games or art.
 
