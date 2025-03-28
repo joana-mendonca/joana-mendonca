@@ -15,7 +15,7 @@ With a diverse background in UX/UI design, frontend and backend engineering, I h
 
 - Languages: Javascript, Java, Phython
 - Miscellaneous: React.js, Node.js, Express.js, Spring
-- Tools: Git, Visual Studio, IntelliJ, CI/CD pipelines
+- Tools: Figma, Git, Visual Studio, IntelliJ, CI/CD pipelines
 - Specialties: Web development, UX/UI design
 
 #### 🌱 On the Side:
