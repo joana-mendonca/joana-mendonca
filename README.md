@@ -3,7 +3,6 @@
 #### 👩‍💻 Software Engineer
 
 Welcome to my GitHub! I’m a software engineer with a passion for blending technical expertise with design to create elegant and high-performance applications. My goal is to build scalable, efficient software that delivers seamless and engaging user experiences.
-With a diverse background in UX/UI design, frontend and backend engineering, I have worked across some web applications to deliver scalable and reliable features.
 
 #### 🔥 What I Do:
 
@@ -13,9 +12,9 @@ With a diverse background in UX/UI design, frontend and backend engineering, I h
  
 #### 🛠️ Tech Stack:
 
-- Languages: Javascript, Java, Phython
-- Miscellaneous: React.js, Node.js, Express.js, Spring
-- Tools: Figma, Git, Visual Studio, IntelliJ, CI/CD pipelines
+- Languages: Javascript, Java, Python, C/C++
+- Frameworks: React.js, Node.js, Express.js, Spring boot, Spring MVC
+- Tools: Figma, Git, VS Code, IntelliJ, CI/CD pipelines, AWS, Azure, Docker, Terraform,
 - Specialties: Web development, UX/UI design
 
 #### 🌱 On the Side:
